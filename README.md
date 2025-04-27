@@ -3,7 +3,7 @@ PrismLauncher/accounts.json to enable offline accounts
 # Download prismlauncher :
 https://prismlauncher.org/
 
-    **or**
+**or**
     
 https://github.com/PrismLauncher/PrismLauncher/releases/latest
 # Download accounts.json :
